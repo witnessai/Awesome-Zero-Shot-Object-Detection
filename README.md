@@ -19,8 +19,11 @@
 + Fashion-MNIST:
     + [7/3](https://github.com/berkandemirel/fashion-zero-shot-detection-dataset)
 
-# <span id='Papers'>Papers [2018~2022]</span>
+# <span id='Papers'>Papers [2018~2023]</span>
+## 2023
+
 ## 2022
++ Sandipan Sarma, Sushil Kumar, Arijit Sur. **Resolving Semantic Confusions for Improved Zero-Shot Detection.** BMVC 2022 (oral). [[paper]](https://bmvc2022.mpi-inf.mpg.de/0347.pdf) [[code]](https://github.com/sandipan211/ZSD-SC-Resolver)
 + Peiliang Huang, Junwei Han, De Cheng, Dingwen Zhang. **Robust Region Feature Synthesizer for Zero-Shot Object Detection.** CVPR 2022. [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Robust_Region_Feature_Synthesizer_for_Zero-Shot_Object_Detection_CVPR_2022_paper.pdf) [[code]](https://github.com/HPL123/RRFS)
 
 + Jingren Liu, Yi Chen, Huajun Liu, Haofeng Zhang, Yudong Zhang. **From Less to More: Progressive Generalized Zero-Shot Detection With Curriculum Learning.** TITS 2022. [[paper]](https://ieeexplore.ieee.org/document/9716853)
