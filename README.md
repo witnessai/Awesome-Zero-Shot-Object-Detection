@@ -1,10 +1,10 @@
 # Awesome-Zero-Shot-Object-Detection
 
 # Table of Contents
-+ [Datasets and Splits (seen/unseen)](#Datasets)
-+ [Papers [2018~2023]](#Papers)
++ [Datasets](#Datasets)
++ [Papers](#Papers)
 
-# <span id='Datasets'>Datasets and Splits (seen/unseen)</span>
+# <span id='Datasets'>Datasets</span>
 + MSCOCO (Most Common):
     + [48/17](https://ankanbansal.com/zsd.html)
     + [65/15](https://github.com/salman-h-khan/PL-ZSD_Release)
@@ -19,7 +19,7 @@
 + Fashion-MNIST:
     + [7/3](https://github.com/berkandemirel/fashion-zero-shot-detection-dataset)
 
-# <span id='Papers'>Papers [2018~2023]</span>
+# <span id='Papers'>Papers</span>
 ## 2023
 
 ## 2022
